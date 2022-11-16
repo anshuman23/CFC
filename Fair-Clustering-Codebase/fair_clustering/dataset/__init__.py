@@ -11,12 +11,6 @@ from fair_clustering.dataset.mnist_usps import MNISTUSPS
 
 __all__ = [
     "Dataset",
-    "Adult",
-    "Compas",
-    "German",
-    "Bank",
-    "Credit",
-    "MNISTData",
     "ExtendedYaleB",
     "Office31",
     "MNISTUSPS",
